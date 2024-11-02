@@ -1,0 +1,12 @@
+debug/bestdrivers.o
+debug/calculation.o
+debug/createwindow.o
+debug/loginwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_images.o
+debug/moc_bestdrivers.o
+debug/moc_calculation.o
+debug/moc_createwindow.o
+debug/moc_loginwindow.o
+debug/moc_mainwindow.o
